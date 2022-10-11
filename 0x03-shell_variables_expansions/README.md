@@ -14,3 +14,7 @@ Task 10: A script that displays the result of BREATH to the power LOVE
 Task 11: A script that converts a number from base 2 to base 10.
 Task 12: A script that prints all possible combinations of two letters, except oo
 Task 13: A script that prints a number with two decimal places, followed by a new line.
+Task 14: A a script that converts a number from base 10 to base 16.
+Task 15: A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+Task 16: A a script that prints every other line from the input, starting with the first line.
+Task 17: A script that prints every other line from the input, starting with the first line.
